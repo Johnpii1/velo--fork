@@ -5,7 +5,7 @@
  */
 export const CONTRACTS = {
   testnet: {
-    escrow: "SET_ME_AFTER_FIRST_DEPLOY",
+    escrow: "CAEYSVTKTCZYTSMPD7CU3NOFYOO4S5V6LJLGRNV7LKTNZ65N66PCHLMC",
     atomicSwapA: "SET_ME_AFTER_FIRST_DEPLOY",
     zkVerifierRegistry: "SET_ME_AFTER_FIRST_DEPLOY",
   },
